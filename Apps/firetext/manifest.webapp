@@ -2,7 +2,7 @@
   "name": "Firetext",
   "description": "The word processor for Firefox OS",
   "version": "0.5.1",
-  "launch_path": "/index.html",
+  "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/firetext/firetext-0.5.1.zip",
   "developer": {
     "name": "Codexa",
     "url": "https://github.com/codexa"
