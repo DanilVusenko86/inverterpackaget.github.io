@@ -12,7 +12,7 @@
     "name": "ZeptoLab",
     "url": "http://www.zeptolab.com"
   },
-  "launch_path": "/apps/cut-the-rope/app/index.html",
+  "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/cut-the-rope/app.zip",
   "orientation": "landscape",
   "fullscreen": "true",
   "permissions": {
