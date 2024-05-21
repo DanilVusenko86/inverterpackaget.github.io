@@ -1,7 +1,7 @@
 {
     "name": "Calculator",
     "description": "A simple calculator app for everyday use",
-    "launch_path": "/index.html",
+    "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/calculator-5/calculator-5-0.9Beta.zip",
     "developer": {
         "name": "Abdul Al-hasany",
         "url": "http://www.tech-scraps.com"
