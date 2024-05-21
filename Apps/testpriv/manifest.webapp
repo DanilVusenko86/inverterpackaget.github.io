@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "name": "TestPriv",
   "description": "Demonstrates how to use permissions to load remote content",
-  "launch_path": "/index.html",
+  "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/testpriv/app.zip",
   "icons": {
     "16": "/img/icons/icon16x16.png",
     "48": "/img/icons/icon48x48.png",
@@ -20,7 +20,7 @@
     }
   },
   "installs_allowed_from": [
-    "*"
+    "https://danilvusenko86.github.io/inverterpackaget.github.io"
   ],
   "locales": {
     "es": {
