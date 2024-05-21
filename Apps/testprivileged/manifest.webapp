@@ -14,10 +14,5 @@
     "url": "http://example.com"
   },
   "type": "privileged",
-  "permissions": {
-    "systemXHR": {
-      "description": "Required to load remote content"
-    }
-  },
   "default_locale": "en"
 }
