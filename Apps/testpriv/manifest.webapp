@@ -14,11 +14,6 @@
     "url": "http://example.com"
   },
   "type": "privileged",
-  "permissions": {
-    "systemXHR": {
-      "description": "Required to load remote content"
-    }
-  },
   "installs_allowed_from": [
     "https://danilvusenko86.github.io/inverterpackaget.github.io"
   ],
