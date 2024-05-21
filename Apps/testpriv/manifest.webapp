@@ -13,6 +13,5 @@
     "name": "Your name",
     "url": "http://example.com"
   },
-  "type": "privileged",
   "default_locale": "en"
 }
