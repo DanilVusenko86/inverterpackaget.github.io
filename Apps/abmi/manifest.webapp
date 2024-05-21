@@ -1,7 +1,7 @@
 {
   "name": "Packaged Test",
   "description": "A Hello World app",
-  "launch_path": "/index.html",
+  "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/abmi/abmi-1.zip",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
