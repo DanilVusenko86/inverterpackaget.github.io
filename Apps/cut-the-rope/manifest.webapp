@@ -1,0 +1,23 @@
+{
+  "version": "1.4",
+  "name": "CutTheRope",
+  "description": "Cut the Rope, catch a star, and feed Om Nom candy in this award-winning game!",
+  "icons": {
+    "16": "/apps/cut-the-rope/app/favicon.png",
+    "64": "/apps/cut-the-rope/app/fb64.png",
+    "128": "/apps/cut-the-rope/app/fb128.png",
+    "256": "/apps/cut-the-rope/app/fb.png"
+  },
+  "developer": {
+    "name": "ZeptoLab",
+    "url": "http://www.zeptolab.com"
+  },
+  "launch_path": "/apps/cut-the-rope/app/index.html",
+  "orientation": "landscape",
+  "fullscreen": "true",
+  "permissions": {
+    "audio-channel-content": {
+      "description": "Playing audio"
+    }
+  }
+}
