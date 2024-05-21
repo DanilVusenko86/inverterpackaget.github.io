@@ -14,10 +14,5 @@
   },
   "package_path": "https://danilvusenko86.github.io/inverterpackaget.github.io/Apps/cut-the-rope/app.zip",
   "orientation": "landscape",
-  "fullscreen": "true",
-  "permissions": {
-    "audio-channel-content": {
-      "description": "Playing audio"
-    }
-  }
+  "fullscreen": "true"
 }
